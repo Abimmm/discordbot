@@ -1,2 +1,2 @@
-# discordbot
-Code untuk logged-on bot kita :)
+# discorbots
+Cara Membuat Bot Discord Sendiri 
