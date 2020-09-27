@@ -16,3 +16,11 @@ How To Make Discord Bots Gaes!!
 
 ```npm install discord.js```
 
+
+***JIKA INGIN BERTANYA TANYA BISA ADD DISCORD KU***
+
+```Abimm#0001```
+
+© Copyright 2020 
+Abimmmmmmmm - Discord : Abimm#0001
+
