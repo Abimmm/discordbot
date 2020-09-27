@@ -1,2 +1,2 @@
 # discordbot
-Cara Me onlinekan bot discord kita :)
+Code untuk logged-on bot kita :)
