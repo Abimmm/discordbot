@@ -1,2 +1,2 @@
 # discordbot
-Discord Bots Online
+Cara Me onlinekan bot discord kita :)
