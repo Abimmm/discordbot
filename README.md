@@ -14,7 +14,7 @@ How To Make Discord Bots Gaes!!
 ***Install discord.js***
 --------------------------------------------------
 
-```npm install discord.js```
+```npm install discord.js --save```
 
 
 ***JIKA INGIN BERTANYA TANYA BISA ADD DISCORD KU***
