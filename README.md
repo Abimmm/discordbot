@@ -22,5 +22,5 @@ How To Make Discord Bots Gaes!!
 ```Abimm#0001```
 
 © Copyright 2020 
-Abimmmmmmmm - Discord : Abimm#0001
+Abimm - Discord : Abimm#0001
 
