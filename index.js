@@ -7,4 +7,4 @@ bot.on("ready", function(){
 	
 })
 
-bot.login("#TOKENBOTMU");
+bot.login("#TOKENBOT");
